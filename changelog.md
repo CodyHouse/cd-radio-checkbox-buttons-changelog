@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.2] - 2019-12-18
+- Added --bg variation 
+- Added CSS Variables for easier customization
+
 ## [1.0.1] - 2019-10-14
 - Simplified class nomenclature
 
